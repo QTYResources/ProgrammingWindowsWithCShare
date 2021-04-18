@@ -16,4 +16,106 @@ January 17, 2013
 www.charlespetzold.com
 cp@charlespetzold.com
 
+中文书名：Windows程序设计（第6版）
+英文书名：Programming Windows, 6th edition
+
+ISBN: 978-7-302-40237-4
+
+作者：
+    （美）Charles Petzold
+
+译者：
+    张大威 汤铭 段洪秀
+
+出版社：
+    清华大学出版社
+
+源代码下载地址：
+    https://www.microsoftpressstore.com/store/programming-windows-9780735671768
+
+
+第I部分 基础知识
+
+Chapter01   第1章 标记与代码
+    01. Hello                                       ===> 一个 Hello，Windows 8! 示例程序
+    02. HelloImage                                  ===> 显示一张网络图片
+    03. HelloLocalImage                             ===> 显示一张本地图片
+    
+
+
+
+Chapter02   第2章 XAML 语法
+
+
+
+Chapter03   第3章 基本事件的处理
+
+
+
+Chapter04   第4章 基于 Panel 的布局
+
+
+
+Chapter05   第5章 控件与交互
+
+
+
+Chapter06   第6章 WinRT 与 MVVM
+
+
+
+Chapter07   第7章 异步
+
+
+
+Chapter08   第8章 应用栏和弹出式窗口
+
+
+
+Chapter09   第9章 动画
+
+
+
+Chapter10   第10章 变换
+
+
+
+Chapter11   第11章 三个模板
+
+
+
+Chapter12   第12章 页面及导航
+
+
+
+
+第II部分 Windows 8 新特性
+
+Chapter13   第13章 触控
+
+
+
+Chpater14   第14章 位图
+
+
+
+Chapter15   第15章 原生
+
+
+
+Chapter16   第16章 富文本
+
+
+
+Chapter17   第17章 共享和打印
+
+
+
+Chapter18   第18章 传感器与 GPS
+
+
+
+Chapter19   第19章 手写笔
+
+
 

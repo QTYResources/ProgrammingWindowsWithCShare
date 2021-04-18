@@ -1,0 +1,1 @@
+C:\Workspace\Windows\HelloImage\HelloImage\HelloImage.csproj;x86

@@ -1,0 +1,1 @@
+C:\Workspace\Windows\Hello\Hello\Hello.csproj;x86
