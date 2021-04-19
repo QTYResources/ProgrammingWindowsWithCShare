@@ -40,9 +40,15 @@ Chapter01   第1章 标记与代码
     01. Hello                                       ===> 一个 Hello，Windows 8! 示例程序
     02. HelloImage                                  ===> 显示一张网络图片
     03. HelloLocalImage                             ===> 显示一张本地图片
-    
-
-
+    04. WrappedText                                 ===> TextBlock 控件使用 TextWrapping 属性
+    05. OverlappedStackedText                       ===> 重叠显示两个 TextBlock
+    06. InternationalHelloWorld                     ===> 在界面上下左右中间显示不同语言的 Hello, world
+    07. HelloAudio                                  ===> 播放网站音频
+    08. HelloVideo                                  ===> 播放网站视频
+    09. HelloCode                                   ===> 使用代码布局控件
+    10. HelloImageCode                              ===> 使用代码显示图片
+    11. HelloLocalImageCode                         ===> 使用XAML和代码显示图片
+    12. StrippedDownHello                           ===> 纯粹使用代码编写程序
 
 Chapter02   第2章 XAML 语法
 
